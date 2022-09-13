@@ -14,4 +14,19 @@ The role of the product owner include the following:
 
 b) A Scrum Master holds a position that’s relatively narrow in scope, yet extremely broad in influence throughout any organization. In practice, however, a Scrum Master is working behind the scenes and is not involved in product ideation or strategy. They work more as a conduit between product/line-of-business owners and development teams as a project manager. Because agile processes are entirely dependent on people and collaboration, Scrum Masters must also marry soft skills with the latest tools and methods. After all, software projects have many moving parts, and individual programmers can quickly lose sight of the broader scope when heads-down in code. A Scrum Master, on the other hand, maintains a high-level view, helping teams to understand both organizational and technical dependencies while avoiding chokepoints. This creates a culture of accountability and enables teams to meet critical deadlines.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+c) Sprint Planning Meeting:
+	 Determine what to complete in the coming sprint
+	 Move stories in sprint scope from backlog to current sprint
+	 Determine story points and assign stories to team
+	 Start sprint
+   Daily Scrum/Standup Meeting:
+	Short meeting that happens every day of the sprint
+	Team members discuss work completed, work plan for the day and any blockers
+   Sprint Retrospective Meeting:
+	 Occurs at the end of the sprint
+	 Discuss work complete and move incomplete work to backlog
+	 Close sprint
+
 
