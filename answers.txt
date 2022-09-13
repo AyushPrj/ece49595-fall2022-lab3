@@ -1,0 +1,12 @@
+Project Manager is the equivalent to product owner in non-Agile Project
+
+The product owner is responsible for maximising the product value, representing the stakeholders, prioritizing the backlog, empowering the team, maintaining Agile and Scrum processes and defining the product vision. 
+The role of the product owner include the following:
+    1) Managing stakeholders and driving value 
+    2) Managing effective communication between the development team and stakeholders 
+    3) Providing the product vision to the development team 
+    4) Resolving conflicts and managing situations or escalations that may arise with stakeholders or development team members 
+    5) Prioritising items on the backlog 
+    6) Guiding the development team on Scrum values, principles and processes  
+    7) Helping stakeholders understand the value of Scrum 
+
